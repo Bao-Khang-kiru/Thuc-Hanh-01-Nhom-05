@@ -31,7 +31,8 @@
 - **Nhiệm vụ 3.1:** Tạo infographic bằng Canva AI chủ đề *“Ứng dụng AI trong công nghệ thông tin”*.  
   → File: `infographic_ai.png`  
 - **Nhiệm vụ 3.2:** Viết đoạn phân tích đạo đức khi sử dụng AI (100–150 từ).  
-  → File: `BaoCao_ThucHanh01.docx` (cuối file có đoạn phân tích).  
+  → File: `Phần 3 nhiệm vụ 3.2 BÁO CÁO THỰC HÀNH 01.docx
+` .  
 
 
 ### 📂 Cấu trúc thư mục
