@@ -1,12 +1,5 @@
-# 🧠 BÁO CÁO THỰC HÀNH 01
+# BÁO CÁO THỰC HÀNH 01
 ## Ứng dụng AI trong cấu hình và giải quyết sự cố
-
-**Sinh viên:** [Tên của bạn]  
-**Mã học phần:** [Điền mã học phần nếu có]  
-**Trường:** Đại học Cần Thơ  
-**Ngày thực hiện:** 03/10/2025  
-
----
 
 ### 📌 Mục tiêu
 - Sử dụng công cụ AI để hỗ trợ cấu hình phần cứng và phần mềm cơ bản.  
@@ -33,7 +26,6 @@
 - **Nhiệm vụ 2.2:** Khắc phục lỗi Notepad++ không mở được file Python lớn.  
   → Giải pháp đề xuất: tăng cache hoặc chuyển sang VS Code.  
 
----
 
 #### **Phần 3: Ứng dụng AI trong học tập**
 - **Nhiệm vụ 3.1:** Tạo infographic bằng Canva AI chủ đề *“Ứng dụng AI trong công nghệ thông tin”*.  
@@ -41,35 +33,42 @@
 - **Nhiệm vụ 3.2:** Viết đoạn phân tích đạo đức khi sử dụng AI (100–150 từ).  
   → File: `BaoCao_ThucHanh01.docx` (cuối file có đoạn phân tích).  
 
----
 
 ### 📂 Cấu trúc thư mục
-```
-ThucHanh01_TenSinhVien/
-│
-├── BaoCao_ThucHanh01.docx
-├── hello_ai.py
-├── infographic_ai.png
-├── README.md
-└── Screenshots/
-    ├── CPU.png
-    ├── Memory.png
-    ├── Disk.png
-    ├── GPU.png
-    └── WifiFix.png
-```
 
----
+ThucHanh01_Nhom05
+├── hello_ai.py
+├── python1MB.py
+├── infographic_ai.pdf
+├── README.md
+│
+├── Phan1_NhiemVu/
+│   ├── Phần 1 nhiệm vụ 1.1 BÁO CÁO THỰC HÀNH 01.docx
+│   ├── Phần 1 nhiệm vụ 1.2 BÁO CÁO THỰC HÀNH 01.docx
+│
+├── Phan2_NhiemVu/
+│   ├── Phần 2 nhiệm vụ 2.1 BÁO CÁO THỰC HÀNH 01.docx
+│   ├── Phần 2 nhiệm vụ 2.2 BÁO CÁO THỰC HÀNH 01.docx
+│
+├── Phan3_NhiemVu/
+│   ├── Phần 3 nhiệm vụ 3.1 BÁO CÁO THỰC HÀNH 01.docx
+│   ├── Phần 3 nhiệm vụ 3.2 BÁO CÁO THỰC HÀNH 01.docx
+│
+├── Screenshots/
+│   ├── CPU.png
+│   ├── GPU.png
+│   ├── Memory.png
+│   ├── disk0.png
+│   ├── ipconfig release.png
+│   └── ipconfig renew.png
+
 
 ### 🧾 Nguồn AI sử dụng
 | Công cụ | Mục đích | Trích dẫn |
 |----------|-----------|-----------|
 | Google Bard | Tìm hiểu cấu hình phần cứng và hướng dẫn cài đặt Notepad++ | *Google Bard, “Giải thích thông số CPU, RAM, ổ cứng của máy tính Windows 10”, truy cập 03/10/2025.* |
-| ChatGPT (OpenAI) | Soạn thảo báo cáo mẫu và nội dung README.md | *ChatGPT, “Tạo báo cáo thực hành Ứng dụng AI trong CNTT”, truy cập 07/10/2025.* |
+| ChatGPT (OpenAI) | Tham khảo cách trình bày và cấu trúc báo cáo thực hành | ChatGPT, “Gợi ý trình bày báo cáo và README cho bài Thực hành Ứng dụng AI”, truy cập ngày 07/10/2025. |
 | Canva AI | Thiết kế infographic “Ứng dụng AI trong CNTT” | *Canva Magic Design, truy cập 03/10/2025.* |
-
----
 
 ### ✅ Giấy phép
 Toàn bộ sản phẩm được chia sẻ theo giấy phép **Creative Commons CC BY 4.0**.  
-> Bạn có thể sao chép, chia sẻ và chỉnh sửa nội dung, miễn là ghi nguồn gốc và không sử dụng cho mục đích thương mại.
